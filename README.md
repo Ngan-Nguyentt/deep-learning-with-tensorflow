@@ -31,4 +31,4 @@ The goal was to build a neural network in TensorFlow and tune it to get the best
   - `deep-learning-with-tensorflow.ipynb` - the main notebook with all works
   - `best-model-hyperparameters-and-loss-accuracy-plot.pdf` - a short conclusion to list the best model hyper parameters achieved in a table with its loss and accuracy plot
 
-### Featured by: Ngan Nguyen
+#### Featured by: Ngan Nguyen
